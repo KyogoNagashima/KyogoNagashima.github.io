@@ -1,18 +1,16 @@
 ---
-title: "Teaching Assistance for General Biology"
+title: "Grader for Quantum Chemistry"
 collection: teaching
-type: "1st year undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "Oberlin College, Biology"
-date: 2021-09-01
+type: "3~4th year undergraduate course"
+permalink: /teaching/2024-spring-teaching-1
+venue: "Oberlin College, Chemistry"
+date: 2024-02-01
 location: "Oberlin, US"
 ---
 
-Responsible for fascillitating in-class discussions and running recitation sessions. 
+Responsible for grading weekly problem sets for Quantum chemistry class (Phys. Chem. II).
 
 Responsibilities
 ======
-- Helped facillitate in class discussion in student groups for a flipped classroom type course.
-- Clarified basic biology concepts and answered questions in class.
-- Held two 90 minute recitation sessions a week.
-- Created own material for recitation sessions that cover the week's material. 
+- Graded weekly problem sets for Quantum chemistry, giving feedback and clarifications. 
+- Clarified students on quantum chemical concepts and basic quantum mechanical postulates
